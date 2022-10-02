@@ -1,5 +1,5 @@
 Luke Hu APCS GA  
-Reasons for Taking Class: Improve coding experience  
+Reasons for Taking Class: Improve coding experience and general knowledge  
 Experience in Python/some Java  
-Interests: Coding, Sports, etc  
+Interests: Coding, Sixers Watcher, Playing Games
 Goals: Improve coding experience  
